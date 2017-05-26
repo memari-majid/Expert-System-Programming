@@ -1,5 +1,5 @@
-# Jess_Programming
 Auto Insurance Expert System
+
 Created an expert system in Jess that computes the auto insurance premium based on the following knowledge:
 A perfect driver (a driver with no risk) spends about $700 a year for a standard coverage. An individual’s insurance premium may be higher depending on the various risk factors explained in the following rules:
 2. If a driver is 18 or younger or 75 or older then her age-risk-factor is 5%, otherwise the age-risk-factor is 0.
